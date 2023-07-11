@@ -1,0 +1,119 @@
+.piechart{
+    width:20px;
+}
+
+.dropdown:hover .dropdown-menu{
+    display:block;
+}
+
+#id, #id2, #id3, #id4, #navbarDropdownMenuLink{
+    color:black;
+}
+
+.logo{
+    width:200px;
+}
+
+
+@media(max-width:991px){
+  .margin{
+    margin-bottom:-80px;
+
+  }
+}
+
+
+.icons{
+    color:#48cae4;
+    font-size:30px;
+   
+    
+}
+
+.iconsbg{
+    width:65px;
+    height:60px;
+    background-color:#560bad;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    padding:10px;
+    border-radius:100%;
+    margin-right:10px;
+
+}
+.icon-container{
+    display:flex;
+    justify-content:ceneter;
+    align-items:flex-start;
+    border-top: solid 2px #48cae4;
+    padding:10px;
+    margin-bottom:20px;
+    border-radius:30px;
+    height:180px;
+   
+}  
+
+.price_plan_box.style_one .price_plan_box.style_two {
+    margin-bottom: 30px;
+}
+
+.price_plan_box.style_one {
+    box-shadow: var(--box-shadow);
+    background: #fff;
+    padding: 45px 35px 40px;
+    border-radius: 10px;
+}
+
+.price_plan_box {
+    position: relative;
+}
+
+.price_plan_box.style_one .top {
+    position: relative;
+    margin-bottom: 30px;
+    padding-bottom: 20px;
+    padding-right: 25px;
+}
+
+.price_plan_box.style_one .mid {
+    position: relative;
+    margin-bottom: 30px;
+}
+.price_plan_box.style_one .bottom {
+    position: relative;
+}
+
+.inner_box{
+    background-color:#5e60ce;
+    padding:20px;
+    border-radius:20px; 
+   
+
+}
+.getbtn{
+    background-color:white;
+    color:black;
+    border-radius:10px;
+    margin-top:20px;
+    border-width:0px;
+    padding:10px;
+}
+
+.getbtn:hover{
+    background-color:#be6cbe;
+}
+
+
+@media screen and (max-width: 991px) {
+    [data-aos] {
+      pointer-events: auto !important;
+      opacity: 1 !important;
+      transform: none !important;
+    }
+  }
+  
+  
+
+
+  
